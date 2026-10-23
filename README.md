@@ -4,6 +4,8 @@ Discover what's happening in Dhaka this week: live music, tech meetups, food wal
 
 **Live site:** https://dhaka-pulse.vercel.app
 
+![Dhaka Pulse home page](docs/screenshot.jpg)
+
 ## Key features
 
 - **Event discovery:** search by keyword and filter by category, area of Dhaka and price, with sorting by date or price
@@ -32,6 +34,28 @@ Seed events ship with the app and events you add are saved in your browser's loc
 | `/register` | Public | Create an account |
 | `/items/add` | Protected | Add a new event |
 | `/items/manage` | Protected | View and delete events |
+
+## Dependencies
+
+| Package | Version |
+| --- | --- |
+| `firebase` | ^13.1.0 |
+| `lucide-react` | ^1.61.0 |
+| `next` | 16.4.2 |
+| `next-themes` | ^0.4.6 |
+| `react` | 19.3.0 |
+| `react-dom` | 19.3.0 |
+| `sonner` | ^2.0.8 |
+
+Development:
+
+| Package | Version |
+| --- | --- |
+| `@tailwindcss/turbopack` | ^4 |
+| `eslint` | ^9 |
+| `eslint-config-next` | 16.4.2 |
+| `firebase-tools` | ^15.34.1 |
+| `tailwindcss` | ^4 |
 
 ## Setup and installation
 
