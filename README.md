@@ -2,7 +2,7 @@
 
 Discover what's happening in Dhaka this week: live music, tech meetups, food walks, art shows, workshops and more. Dhaka Pulse is a Next.js (App Router) event discovery app with Firebase authentication. Anyone can browse events; signed-in users can add their own events and manage them.
 
-**Live site:** {{LIVE_URL}}
+**Live site:** https://dhaka-pulse.vercel.app
 
 ## Key features
 
